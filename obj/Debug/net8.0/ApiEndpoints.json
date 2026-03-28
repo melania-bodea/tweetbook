@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "TweetBook.Controllers.TweetbookController",
+    "Method": "Get",
+    "RelativePath": "api/user",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
