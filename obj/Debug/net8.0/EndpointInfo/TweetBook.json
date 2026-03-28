@@ -5,10 +5,10 @@
     "version": "v1"
   },
   "paths": {
-    "/api/user": {
+    "/api/v1/posts": {
       "get": {
         "tags": [
-          "Tweetbook"
+          "Posts"
         ],
         "responses": {
           "200": {
@@ -21,7 +21,7 @@
   "components": { },
   "tags": [
     {
-      "name": "Tweetbook"
+      "name": "Posts"
     }
   ]
 }

@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "TweetBook.Controllers.TweetbookController",
-    "Method": "Get",
-    "RelativePath": "api/user",
+    "ContainingType": "TweetBook.Controllers.v1.PostsController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/posts",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
